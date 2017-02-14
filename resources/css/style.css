@@ -127,11 +127,11 @@ p {
 }
 
 
-.featured-row-1 {
+.featured-column-1 {
   width: 100%;
 }
 
-.featured-row-2 {
+.featured-column-2 {
   display: flex;
   flex-direction: column;
   width: 45%;
